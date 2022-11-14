@@ -6,7 +6,7 @@ Add the following code to your module list in the `config/_default/module.toml` 
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/shortcodes/gallery"
+path = "github.com/kyawzayarhan/hugo-modules/shortcodes/gallery"
 ```
 
 Add the following code to your js plugins list in the `config.toml` file.

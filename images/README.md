@@ -6,7 +6,7 @@ Add the following code to your module list in the `config/_default/module.toml` 
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/images"
+path = "github.com/kyawzayarhan/hugo-modules/images"
 ```
 
 If you want to enable placeholder/lazy-loader, then add the following code to your js plugins list in the `config.toml` file.

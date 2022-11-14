@@ -1,5 +1,5 @@
 // main author repo: https://github.com/justinribeiro/youtube-lite
-// modified by: https://github.com/gethugothemes
+// modified by: https://github.com/kyawzayarhan
 
 class LiteYTEmbed extends HTMLElement {
   constructor() {

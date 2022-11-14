@@ -6,7 +6,7 @@ Add the following code to your module list in the `config/_default/module.toml` 
 
 ```toml
 [[imports]]
-path = "github.com/gethugothemes/hugo-modules/components/social-share"
+path = "github.com/kyawzayarhan/hugo-modules/components/social-share"
 ```
 
 Add the following code to your `asstes/scss/style.scss` file.

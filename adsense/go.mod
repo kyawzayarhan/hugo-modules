@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/adsense
+module github.com/kyawzayarhan/hugo-modules/adsense
 
 go 1.18

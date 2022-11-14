@@ -1,3 +1,3 @@
-module github.com/gethugothemes/hugo-modules/seo-tools/plausible-analytics
+module github.com/kyawzayarhan/hugo-modules/seo-tools/plausible-analytics
 
 go 1.18

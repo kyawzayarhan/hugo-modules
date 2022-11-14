@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gethugothemes/hugo-modules.git"
+    "url": "git+https://github.com/kyawzayarhan/hugo-modules.git"
   },
   "bugs": {
-    "url": "https://github.com/gethugothemes/hugo-modules/issues"
+    "url": "https://github.com/kyawzayarhan/hugo-modules/issues"
   },
   "scripts": {
     "serve": "hugo server --disableFastRender --i18n-warnings --navigateToChanged  --templateMetrics --templateMetricsHints --verbose --verboseLog --path-warnings --buildDrafts --buildExpired --buildFuture --watch --enableGitInfo --forceSyncStatic --log true --logFile hugo.log --verbose",
